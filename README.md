@@ -1,5 +1,9 @@
-# ytd
-Youtube downloader with no gui
+# Youtube Downloader
+Youtube downloader on console.
 run the ytd.exe.
-hope it helps!.
-I have used youtube_dl and ffmpeg.
+You get an option for downloading Audio or video seperately
+You can download a whole playlist from youtube by entering the link of playlist.
+Works for other services too, Eg. Facebook, Instagram,Soundcloud etc
+
+
+
